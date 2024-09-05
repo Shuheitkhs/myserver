@@ -1,0 +1,19 @@
+{
+  "name": "myserver",
+  "version": "1.0.0",
+  "description": "my 1st Web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Shuheitkhs/myserver.git"
+  },
+  "author": "Shu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shuheitkhs/myserver/issues"
+  },
+  "homepage": "https://github.com/Shuheitkhs/myserver#readme"
+}
